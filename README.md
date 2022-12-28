@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 A simple Quote Generator site.
 
+https://flourishing-pika-f4760e.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
